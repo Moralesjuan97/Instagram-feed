@@ -1,0 +1,41 @@
+body{
+    background-color: gray;
+    margin: 0;
+}
+
+header{
+    background-color: white;
+}
+
+div .instagram-header h1{
+    margin: auto;
+    width: 600px;
+    padding: 10px;
+}
+
+.instagram-post{
+    background-color: white;
+    margin: auto;
+    width: 600px;
+    margin-top: 20px;
+}
+
+.instagram-post h2{
+    width: 90%;
+    padding-left: 5px;
+    display: inline-block;
+}
+
+.instagram-post img{
+    width: 100%;
+}
+
+.instagram-post span{
+    color: gray;
+    
+}
+
+.instagram-post p{
+    margin: 0;
+    padding: 10px;
+}
